@@ -1,0 +1,5 @@
+1. Socketowe połączenie klient-server na wątkach -> done
+2. Sprawdzenie czy serwer dobrze czyta wiadomości od admina/klienta -> done
+3. Sprawdzenei czy klienci dobrze czytają wiadomości od serwera -> done
+4. Obsługa zadań przez serwer -> done
+5. Opakowanie w okienka -> done
